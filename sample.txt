@@ -1,0 +1,5 @@
+Name: Thamaraikannan
+Department: Computer Science and Engineerng
+Year: First Year
+
+This is my first GitHub repository created for GitHub Setup Activity.
